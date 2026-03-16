@@ -67,7 +67,7 @@ and achieve comparable frame rates.
 | WPF | ~15ms | ~17 FPS |
 
 For a WPF implementation see:
-➡️ [wpf-chart-100million-points-proessentials](https://github.com/GigasoftInc/wpf-chart-100million-points-proessentials)
+➡️ [wpf-chart-100million-points-proessentials](https://github.com/GigasoftInc/wpf-chart-fast-100m-points-proessentials)
 
 ---
 
