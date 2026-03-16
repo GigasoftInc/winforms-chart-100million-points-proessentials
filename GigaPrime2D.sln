@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPrime2D", "GigaPrime2D.csproj", "{9955A027-022A-4A50-BB81-327101C436C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9955A027-022A-4A50-BB81-327101C436C5}.Debug|x64.ActiveCfg = Debug|x64
+		{9955A027-022A-4A50-BB81-327101C436C5}.Debug|x64.Build.0 = Debug|x64
+		{9955A027-022A-4A50-BB81-327101C436C5}.Release|x64.ActiveCfg = Release|x64
+		{9955A027-022A-4A50-BB81-327101C436C5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33E2BF9-680B-43D0-BB24-6EDD2DA993C8}
+	EndGlobalSection
+EndGlobal
