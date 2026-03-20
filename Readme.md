@@ -5,7 +5,7 @@ A ProEssentials v10 demonstration of GPU compute shader rendering —
 tick using .NET Framework 4.72 WinForms.
 Live FPS displayed in the title bar.
 
-![GigaPrime2D 100 Million Points WinForms Chart](https://gigasoft.com/files/GigaPrime2D-100MPoints-Winform.png)
+![GigaPrime2D 100 Million Points WinForms Chart](docs/GigaPrime2D-100MPoints-Winform.png)
 
 ---
 
