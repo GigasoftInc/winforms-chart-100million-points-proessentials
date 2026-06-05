@@ -33,8 +33,8 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Gigasoft.ProEssentials, Version=10.0.0.26, Culture=neutral, PublicKeyToken=38150f10c0d12be5, processorArchitecture=AMD64">
-      <HintPath>packages\ProEssentials.Chart.Net.x64.Winforms.10.0.0.26\lib\net472\Gigasoft.ProEssentials.dll</HintPath>
+    <Reference Include="Gigasoft.ProEssentials, Version=10.0.0.20, Culture=neutral, PublicKeyToken=38150f10c0d12be5, processorArchitecture=AMD64">
+      <HintPath>packages\ProEssentials.Chart.Net.x64.Winforms.10.0.0.20\lib\net472\Gigasoft.ProEssentials.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -86,6 +86,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="CopyNativeDll" AfterTargets="Build">
-    <Copy SourceFiles="$(ProjectDir)packages\ProEssentials.Chart.Net.x64.Winforms.10.0.0.26\runtimes\win7-x64\native\PEGRP64H.DLL" DestinationFolder="$(OutDir)" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="$(ProjectDir)packages\ProEssentials.Chart.Net.x64.Winforms.10.0.0.20\runtimes\win7-x64\native\PEGRP64H.DLL" DestinationFolder="$(OutDir)" SkipUnchangedFiles="true" />
   </Target>
 </Project>
