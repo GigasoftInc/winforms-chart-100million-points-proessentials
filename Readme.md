@@ -9,6 +9,12 @@ Live FPS displayed in the title bar.
 
 ---
 
+> **Found ProEssentials through this repo?** Use code **GITHUB15_OCT31** at checkout for 15% off your first license.
+>
+> Thanks for sharing — every share and star helps another engineer find this repo.
+
+---
+
 ## What This Demonstrates
 
 GigaPrime2D demonstrates v10's GPU compute shader feature — rendering 
